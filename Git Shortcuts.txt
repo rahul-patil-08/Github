@@ -9,3 +9,8 @@ changes has been commited and added to the git
 
 git log 
 To know that Status Of the people who have commited the changes 
+
+git push 
+to push the code into the directory
+
+git pull
