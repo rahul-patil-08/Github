@@ -1,0 +1,11 @@
+git Status
+to known the Status 
+
+git add . 
+to add the files 
+
+git commit -m master/origin
+changes has been commited and added to the git 
+
+git log 
+To know that Status Of the people who have commited the changes 
